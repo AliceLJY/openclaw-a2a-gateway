@@ -1,4 +1,7 @@
-> **[Archived]** This repository is no longer maintained and is kept for history only.
+> **Archived fork snapshot.** Maintained code and releases live in
+> [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway).
+> The A2A v0.3.0 material below describes this snapshot and must not be treated
+> as current protocol documentation.
 
 # OpenClaw A2A Gateway Plugin
 

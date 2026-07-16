@@ -1,3 +1,7 @@
+> **已归档的 fork 快照：** 当前维护和发布请看
+> [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway)。
+> 下文 A2A v0.3.0 内容只描述本快照，不能当作当前协议文档。
+
 # OpenClaw A2A Gateway 插件
 
 [OpenClaw](https://github.com/openclaw/openclaw) 插件，实现 [A2A (Agent-to-Agent) v0.3.0 协议](https://github.com/google/A2A)，让不同服务器上的 OpenClaw Agent 互相通信。
